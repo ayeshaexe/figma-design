@@ -11,7 +11,7 @@ export default function Home() {
           <p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.</p>
           <button>Download Resume</button>
           </div>
-          <Image src="/person.png" alt="pic-per" width={300} height={300}></Image>
+          <Image src="/person.png" alt="pic-per" width={300} height={300} className="pic"></Image>
         </div>
       </div>
     </div>
